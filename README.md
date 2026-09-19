@@ -40,7 +40,11 @@ B.Tech Computer Science student (Cloud Computing & Virtualization Technology) at
 Multi-layered Zero Trust architecture integrating Blockchain, IoMT gateways and Agentic AI for HIPAA/GDPR-compliant cloud systems.
 DOI: [10.1109/IBI68858.2026.11604078](https://doi.org/10.1109/IBI68858.2026.11604078)
 
-## 🏅 Highlights
-McKinsey Forward Program · Smart India Hackathon 2025 participant · AWS Academy Graduate (Cloud Foundations, Architecting, Operations) · ACM Student Chapter core member
+## 🏅 Certifications & Leadership
+
+- **AWS Academy Graduate**: Cloud Foundations, Cloud Architecting, Cloud Operations
+- **McKinsey Forward Program**
+- **Smart India Hackathon 2025** participant
+- **ACM Student Chapter**: Core Member, Editorial Team
 
 > Open to Business Technology / Cloud / Data roles. Feel free to reach out!
