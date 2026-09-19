@@ -19,7 +19,21 @@ B.Tech Computer Science student (Cloud Computing & Virtualization Technology) at
 - **[CLOUD-EMS](https://github.com/27Khushiyadav/Expenditure_management_system)** – Cloud expenditure management system in Java with AWS SDK for expense tracking and S3-based report storage.
 
 ## 💼 Experience
-- **Cloud Infrastructure Intern, Maruti Suzuki India Limited** (Jun–Jul 2026) – Analyzed multi-VPC AWS infrastructure and end-to-end data workflows; contributed to an internal AWS cost-tracking application.
+<details>
+<summary><b>Cloud Infrastructure Intern, Maruti Suzuki India Limited</b> (Jun–Jul 2026)</summary>
+
+- Analyzed enterprise multi-VPC AWS infrastructure and end-to-end data workflows: CDC ingestion, AWS Glue ETL, Athena, Lake Formation, Delta Lake, Apache Iceberg, Power BI, Qlik and S3 Glacier tiering
+- Helped structure business requirements for internal applications and websites
+- Contributed to enhancements of an internal AWS cost-tracking application under a Waterfall delivery process
+
+</details>
+
+<details>
+<summary><b>Research & Digital Strategy Intern, Pikeazy</b> (Jun–Jul 2025)</summary>
+
+- Conducted market research and competitive analysis, and produced digital content that strengthened brand visibility
+
+</details>
 
 ## 📚 Publication
 - *Cloud Security in Healthcare: Protecting Sensitive Patient Data* – IEEE IBI 2026. DOI: [10.1109/IBI68858.2026.11604078](https://doi.org/10.1109/IBI68858.2026.11604078)
