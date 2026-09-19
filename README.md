@@ -1,6 +1,12 @@
 # Hi, I'm Khushi Yadav 👋
 
-B.Tech Computer Science student (Cloud Computing & Virtualization Technology) at UPES, Dehradun, graduating July 2027. I build cloud and data solutions on AWS and enjoy turning business problems into working technology.
+## 👩‍💻 About
+
+B.Tech Computer Science student (**Cloud Computing & Virtualization Technology**) at **UPES, Dehradun**, graduating **July 2027**. I design and build cloud and data solutions on AWS, and I enjoy turning business problems into working technology.
+
+- ☁️ Interned at **Maruti Suzuki**, analyzing enterprise multi-VPC AWS infrastructure and data workflows
+- 📄 Co-authored a paper on cloud security in healthcare, published at **IEEE IBI 2026**
+- 🎯 Looking for **Business Technology, Cloud and Data** roles
 
 📧 27khushiyadav05@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/khushi-yadav-2245971a9/) · 📄 [Download my resume (PDF)](./Khushi_Yadav_Resume.pdf)
 
