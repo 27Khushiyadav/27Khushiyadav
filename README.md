@@ -36,7 +36,9 @@ B.Tech Computer Science student (Cloud Computing & Virtualization Technology) at
 </details>
 
 ## 📚 Publication
-- *Cloud Security in Healthcare: Protecting Sensitive Patient Data* – IEEE IBI 2026. DOI: [10.1109/IBI68858.2026.11604078](https://doi.org/10.1109/IBI68858.2026.11604078)
+**Cloud Security in Healthcare: Protecting Sensitive Patient Data**, IEEE IBI 2026
+Multi-layered Zero Trust architecture integrating Blockchain, IoMT gateways and Agentic AI for HIPAA/GDPR-compliant cloud systems.
+DOI: [10.1109/IBI68858.2026.11604078](https://doi.org/10.1109/IBI68858.2026.11604078)
 
 ## 🏅 Highlights
 McKinsey Forward Program · Smart India Hackathon 2025 participant · AWS Academy Graduate (Cloud Foundations, Architecting, Operations) · ACM Student Chapter core member
